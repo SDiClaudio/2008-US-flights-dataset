@@ -40,6 +40,7 @@ Moreover, the same 6 airports were the busiest in terms of number of both depart
 - Denver
 - Houston
 - New York
+
 Soutwest Airlines Co. was the carrier with the highest number of flights for the year 2008. However, it doesn't appear among the carriers with the highest number of cancellations. 
 Among these carriers, the main reason for the cancellations was broadly confirmed to be either the weather or carrier issues.
 Interstingly, the departure and arrival delays distribution accross those carriers varied in each of the busiest airport.
